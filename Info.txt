@@ -1,0 +1,4 @@
+Installer 'ffmpeg-6.0-full_build' dans le mème répertoire que le script 
+le script est normalement en exe mai trop lourd pour etre sur Git
+
+PS. Sorry
